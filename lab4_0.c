@@ -60,6 +60,6 @@ for(i=2;sqrt(n);i++){
  if(isprime)
  printf("%d is a prime number",n);
  else
- printf("%d is a prime number",n);
+ printf("%d is not a prime number",n);
  
 }
